@@ -10,3 +10,6 @@
 [submodule "s4"]
 	path = s4
 	url = /Users/pity/Dropbox/git/s4.git
+[submodule "s5"]
+	path = test/s5
+	url = /Users/pity/Dropbox/git/s5.git
