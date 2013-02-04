@@ -1,0 +1,3 @@
+[submodule "s2"]
+	path = s2
+	url = git@github.com:pityonline/s2.git
