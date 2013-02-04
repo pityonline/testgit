@@ -7,3 +7,6 @@
 [submodule "s3"]
 	path = s3
 	url = /Users/pity/Dropbox/git/s3.git
+[submodule "s4"]
+	path = s4
+	url = /Users/pity/Dropbox/git/s4.git
